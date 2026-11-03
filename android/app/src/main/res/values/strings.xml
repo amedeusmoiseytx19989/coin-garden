@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coin Garden</string>
+
+    <string name="brand_title">COIN STRIKE</string>
+    <string name="brand_tagline">AIM · LAUNCH · COLLECT</string>
+    <string name="loading">LOADING</string>
+    <string name="logo_description">Coin Strike emblem</string>
+    <string name="arena_description">Coin arena background</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">LAUNCH AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="fire">LAUNCH</string>
+    <string name="close">CLOSE</string>
+    <string name="claim">CLAIM</string>
+    <string name="claimed">CLAIMED</string>
+    <string name="equip">EQUIP</string>
+    <string name="equipped">EQUIPPED</string>
+    <string name="resume">RESUME</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="rules_cta">GAME RULES</string>
+    <string name="settings_cta">SETTINGS</string>
+
+    <string name="menu_hint">ONE TAP FIRES THE COIN · RINGS BUILD THE STREAK</string>
+    <string name="menu_disclaimer">FOR ENTERTAINMENT ONLY · VIRTUAL COINS</string>
+    <string name="tile_daily">DAILY BONUS</string>
+    <string name="tile_daily_ready">READY TO CLAIM</string>
+    <string name="tile_daily_next">NEXT IN %1$s</string>
+    <string name="tile_streak">BEST STREAK</string>
+    <string name="tile_vault">COIN VAULT</string>
+    <string name="tile_vault_sub">%1$d / %2$d UNLOCKED</string>
+    <string name="tile_rewards">REWARDS</string>
+    <string name="tile_rewards_sub">%1$d READY</string>
+    <string name="tile_rewards_none">ALL CLAIMED</string>
+    <string name="tile_progress">PROGRESS</string>
+    <string name="rank_line">RANK %1$d · %2$s</string>
+    <string name="xp_line">%1$s / %2$s XP</string>
+    <string name="points_state">Strike points %1$d</string>
+
+    <string name="round_clock">ROUND %1$s</string>
+    <string name="bank_format">%1$d / %2$d</string>
+    <string name="multiplier_format">x%1$d</string>
+    <string name="floater_format">+%1$d</string>
+    <string name="pause_description">Pause the round</string>
+    <string name="ring_description">Target ring</string>
+    <string name="coin_description">Strike coin</string>
+    <string name="score_state">Score %1$d, streak %2$d</string>
+    <string name="fire_state_ready">Ready to launch</string>
+    <string name="fire_state_busy">Coin in flight</string>
+    <string name="reload_banner">RELOAD BONUS · %1$d COINS</string>
+    <string name="streak_label">STREAK</string>
+
+    <string name="result_title">ROUND COMPLETE</string>
+    <string name="result_title_blank">TIME UP</string>
+    <string name="result_points">STRIKE POINTS</string>
+    <string name="stat_rings">RINGS</string>
+    <string name="stat_streak">BEST STREAK</string>
+    <string name="stat_accuracy">ACCURACY</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="result_hint">LONGER STREAKS MULTIPLY EVERY RING</string>
+    <string name="new_best">NEW BEST SCORE</string>
+    <string name="unlock_banner">NEW COIN UNLOCKED · %1$s</string>
+    <string name="trophy_description">Reward chest</string>
+    <string name="home_description">Back to the hub</string>
+
+    <string name="collection_title">COIN VAULT</string>
+    <string name="coin_brass">BRASS</string>
+    <string name="coin_teal">TEAL ALLOY</string>
+    <string name="coin_aurora">AURORA</string>
+    <string name="coin_obsidian">OBSIDIAN</string>
+    <string name="coin_solar">SOLAR</string>
+    <string name="coin_bonus">RING VALUE %1$d PERCENT UP</string>
+    <string name="coin_bonus_none">STANDARD RING VALUE</string>
+    <string name="coin_locked">REACH %1$s POINTS</string>
+
+    <string name="rewards_title">REWARDS</string>
+    <string name="reward_rings">FIRST 10 RINGS</string>
+    <string name="reward_streak">STREAK OF 8</string>
+    <string name="reward_points">1 000 POINTS</string>
+    <string name="reward_rounds">5 ROUNDS PLAYED</string>
+    <string name="reward_coins">ALL COINS UNLOCKED</string>
+    <string name="reward_value">%1$s POINTS</string>
+    <string name="reward_progress">%1$d / %2$d</string>
+    <string name="rewards_empty">PLAY A ROUND TO OPEN THE FIRST MILESTONE</string>
+
+    <string name="progress_title">PROGRESS</string>
+    <string name="stat_rounds">ROUNDS</string>
+    <string name="stat_best">BEST SCORE</string>
+    <string name="stat_points">LIFETIME</string>
+    <string name="stat_shots">SHOTS</string>
+
+    <string name="rank_rookie">ROOKIE</string>
+    <string name="rank_pitcher">PITCHER</string>
+    <string name="rank_sharpshooter">SHARPSHOOTER</string>
+    <string name="rank_ringmaster">RINGMASTER</string>
+    <string name="rank_gold_striker">GOLD STRIKER</string>
+    <string name="rank_legend">LEGEND</string>
+
+    <string name="daily_title">DAILY BONUS</string>
+    <string name="daily_day">DAY %1$d</string>
+    <string name="daily_cooldown">NEXT BONUS IN %1$s</string>
+    <string name="daily_ready">YOUR DAY %1$d REWARD IS READY</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_sound">SOUND</string>
+    <string name="settings_haptics">HAPTICS</string>
+    <string name="settings_motion">REDUCED MOTION</string>
+    <string name="settings_reset">RESET PROGRESS</string>
+    <string name="settings_reset_confirm">CONFIRM RESET</string>
+    <string name="settings_reset_warning">THIS CLEARS POINTS, COINS AND MILESTONES</string>
+    <string name="settings_version">VERSION 1.0</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+
+    <string name="rules_title">GAME RULES</string>
+    <string name="rule_one">TAP THE GOLD BUTTON TO FIRE A COIN AT THE DRIFTING RINGS</string>
+    <string name="rule_two">THE SMALLER AND HIGHER THE RING, THE BIGGER THE PRIZE</string>
+    <string name="rule_three">EVERY THIRD RING IN A ROW RAISES THE MULTIPLIER</string>
+    <string name="rule_four">A MISS RESETS THE STREAK BUT NEVER ENDS THE ROUND</string>
+    <string name="rules_table">RING VALUES</string>
+    <string name="rules_ring_wide">WIDE RING · 80</string>
+    <string name="rules_ring_mid">MID RING · 120</string>
+    <string name="rules_ring_tight">TIGHT RING · 200</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_body">THE ROUND CLOCK IS ON HOLD</string>
+</resources>
